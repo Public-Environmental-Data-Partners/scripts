@@ -1,0 +1,1070 @@
+{
+  "folder": "download",
+  "folderLevel": 0,
+  "subfolderList": [
+    {
+      "year": "2023 Reports",
+      "folder": "2023_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://www.fisheries.noaa.gov/s3/2024-12/Alaska_SARs_Final_2023.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://www.fisheries.noaa.gov/s3/2025-01/Atlantic-MMSAR-122025.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://www.fisheries.noaa.gov/s3/2024-12/Pacific_SARs_Final_2023.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2022 Reports",
+      "folder": "2022_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/52074/noaa_52074_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2023-08/Final-Atlantic-and-Gulf-of-Mexico-SAR.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2023-08/Final-2022-Pacific-SAR.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2021 Reports",
+      "folder": "2021_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2022-08/NOAA-TM-AFSC-441.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/45014/noaa_45014_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/44406/noaa_44406_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2020 Reports",
+      "folder": "2020_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2022-05/Alaska%20SARS%202020_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2021-07/Atlantic%202020%20SARs%20Final.pdf",
+            "https://media.fisheries.noaa.gov/2021-07/f2020_AtlGmexSARs_Table1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/2021-07/Pacific%202020%20SARs%20Final%20Working%20508.pdf",
+            "https://media.fisheries.noaa.gov/2021-07/Pacific%202020%20Summarytable.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2019 Reports",
+      "folder": "2019_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_alaska_508.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_summarytable_alaska_508.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_atlantic_508.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_summarytable_atlantic_508.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_pacific_508.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/2019_sars_summarytable_pacific_508.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2018 Reports",
+      "folder": "2018_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/20606/noaa_20606_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/2018_alaska_appendix_2.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/20611/noaa_20611_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/tm258table1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/20266/noaa_20266_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/pacific_region_2018_summary_table.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2017 Reports",
+      "folder": "2017_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/18114/noaa_18114_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/alaska_2017_summary_table.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/22730/noaa_22730_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/atlantic_2017_summary_table.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/18080/noaa_18080_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/pacific_2017_summary_table.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2016 Reports",
+      "folder": "2016_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14854/noaa_14854_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ak2016_sars_appendix_2.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14864/noaa_14864_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/atlantic_2016_summary_table.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14915/noaa_14915_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/pacific_2016_final_sars-summary_table_final.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2015 Reports",
+      "folder": "2015_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/11984/noaa_11984_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ak2015_summary_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/11985/noaa_11985_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/atl2015_summary_final-accessible.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/11987/noaa_11987_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/pac2015_summary_final-accessible.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2014 Reports",
+      "folder": "2014_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4945/noaa_4945_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/alaska2014_summary_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/5043/noaa_5043_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/atl2014_summary_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/5017/noaa_5017_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/po2014_summarytable.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2013 Reports",
+      "folder": "2013_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4778/noaa_4778_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ak2013_summary_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4757/noaa_4757_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/atl2013_summary_final.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4772/noaa_4772_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/pacific2013_summary_final.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2012 Reports",
+      "folder": "2012_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4379/noaa_4379_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ak2012_summary.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4375/noaa_4375_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ao2012_10stocks.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ao2012_summary.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4464/noaa_4464_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/po2012_summary.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2011 Reports",
+      "folder": "2011_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4144/noaa_4144_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ak2011summary.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4135/noaa_4135_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/ao2011summary.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/4506/noaa_4506_DS1.pdf",
+            "https://media.fisheries.noaa.gov/dam-migration/po2011summary.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2010 Reports",
+      "folder": "2010_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3836/noaa_3836_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3831/noaa_3831_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3923/noaa_3923_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2009 Reports",
+      "folder": "2009_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14911/noaa_14911_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3716/noaa_3716_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3915/noaa_3915_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2008 Reports",
+      "folder": "2008_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14910/noaa_14910_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3630/noaa_3630_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3922/noaa_3922_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2007 Reports",
+      "folder": "2007_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14909/noaa_14909_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3567/noaa_3567_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3591/noaa_3591_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2006 Reports",
+      "folder": "2006_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14964/noaa_14964_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3532/noaa_3532_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3500/noaa_3500_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2005 Reports",
+      "folder": "2005_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14908/noaa_14908_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3469/noaa_3469_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3480/noaa_3480_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2004 Reports",
+      "folder": "2004_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3423/noaa_3423_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2003 Reports",
+      "folder": "2003_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14906/noaa_14906_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3379/noaa_3379_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3386/noaa_3386_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2002 Reports",
+      "folder": "2002_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://www.fisheries.noaa.gov/s3/2024-05/AK-SAR-2002.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3325/noaa_3325_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3327/noaa_3327_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2001 Reports",
+      "folder": "2001_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14903/noaa_14903_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3232/noaa_3232_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3237/noaa_3237_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "2000 Reports",
+      "folder": "2000_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14902/noaa_14902_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3165/noaa_3165_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3166/noaa_3166_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "1999 Reports",
+      "folder": "1999_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/16952/noaa_16952_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3182/noaa_3182_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3120/noaa_3120_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "1998 Reports",
+      "folder": "1998_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14901/noaa_14901_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3064/noaa_3064_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3704/noaa_3704_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "1996 Reports",
+      "folder": "1996_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/14900/noaa_14900_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3016/noaa_3016_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/3025/noaa_3025_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    },
+    {
+      "year": "1995 Reports",
+      "folder": "1995_reports",
+      "folderLevel": 1,
+      "subfolderList": [
+        {
+          "region": "Alaska",
+          "folder": "alaska",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/6215/noaa_6215_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Atlantic Ocean",
+          "folder": "atlantic_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/9168/noaa_9168_DS1.pdf"
+          ],
+          "getByHandList": []
+        },
+        {
+          "region": "Pacific Ocean",
+          "folder": "pacific_ocean",
+          "folderLevel": 2,
+          "subfolderList": [],
+          "downloadList": [
+            "https://repository.library.noaa.gov/view/noaa/6212/noaa_6212_DS1.pdf"
+          ],
+          "getByHandList": []
+        }
+      ]
+    }
+  ],
+  "downloadList": [],
+  "getByHandList": []
+}
