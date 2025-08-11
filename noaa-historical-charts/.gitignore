@@ -1,0 +1,10 @@
+#Generic stuff
+.venv
+wget-log
+.idea/*
+
+# Archival data and artifacts
+*.tar*
+*.xz
+*.gz
+historicalcharts.nooa.gov
