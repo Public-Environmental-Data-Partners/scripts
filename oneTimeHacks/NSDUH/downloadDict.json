@@ -1,0 +1,871 @@
+{
+  "folder": "download",
+  "subfolderList": [
+    {
+      "dropDownLabel": "NSDUH 2023",
+      "year": "2023",
+      "relative_href": "/data/dataset/national-survey-drug-use-and-health-2023-nsduh-2023-ds0001",
+      "folder": "year_2023",
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt56198/2023-nsduh-puf-data-users-guide.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-info-codebook_v1.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39458/2023NSDUHmrbCAISpecs020223.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39460/2023NSDUHmrbShowcards020223.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-sas_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-spss_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-stata_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-ascii_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-tsv_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-r_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-ascii-setup-to-sas_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-ascii-setup-to-spss_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2023-DS0001-bndl-data-ascii-setup-to-stata_v1.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2022",
+      "year": "2022",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2022",
+      "folder": "year_2022",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-info-codebook_v2.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH2022PUF_Supplement_1Nov2024.docx",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/2022NSDUHmrbCAISpecs070722.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/2022NSDUHmrbShowcards070722.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-sas_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-spss_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-stata_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-ascii_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-tsv_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-r_v-2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-ascii-setup-to-sas_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-ascii-setup-to-spss_v2.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2022-DS0001-bndl-data-ascii-setup-to-stata_v2.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2021",
+      "year": "2021",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2021",
+      "folder": "year_2021",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH2021PUF_Supplement.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/2021NSDUHmrbCAISpecs011321.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/2021NSDUHmrbShowcards011321.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-sas_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-spss_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-stata_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-ascii_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-tsv_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-r_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-ASCII-setup-to-sas_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-ASCII-setup-to-spss_v4.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2021-DS0001-bndl-data-ASCII-setup-to-stata_v4.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2020",
+      "year": "2020",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2020",
+      "folder": "year_2020",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-sas_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-spss_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-stata_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-ascii_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-tsv_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-r_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-ascii-setup-to-sas_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-ascii-setup-to-spss_v1.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2020-DS0001-bndl-data-ascii-setup-to-stata_v1.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2019",
+      "year": "2019",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2019",
+      "folder": "year_2019",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2019-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2019",
+      "year": "2002-2019",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2019",
+      "folder": "year_2002-2019",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2019-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2018",
+      "year": "2018",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2018",
+      "folder": "year_2018",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2018-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2018",
+      "year": "2002-2018",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2018",
+      "folder": "year_2002-2018",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2018-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2017",
+      "year": "2017",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2017",
+      "folder": "year_2017",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2017-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2017",
+      "year": "2002-2017",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2017",
+      "folder": "year_2002-2017",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2017-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2016",
+      "year": "2016",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2016",
+      "folder": "year_2016",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2016-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2016",
+      "year": "2002-2016",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2016",
+      "folder": "year_2002-2016",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2016-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2015",
+      "year": "2015",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2015",
+      "folder": "year_2015",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2015-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2015",
+      "year": "2002-2015",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2015",
+      "folder": "year_2002-2015",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2015-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2014",
+      "year": "2014",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2014",
+      "folder": "year_2014",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2014-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002-2014",
+      "year": "2002-2014",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002-2014",
+      "folder": "year_2002-2014",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-2014-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2013",
+      "year": "2013",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2013",
+      "folder": "year_2013",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2013-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2012",
+      "year": "2012",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2012",
+      "folder": "year_2012",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2012-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2011",
+      "year": "2011",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2011",
+      "folder": "year_2011",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2010",
+      "year": "2010",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2010",
+      "folder": "year_2010",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2010-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2009",
+      "year": "2009",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2009",
+      "folder": "year_2009",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2009-DS0001-bndl-data-ascii-setup-to-stata_v1.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2008",
+      "year": "2008",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2008",
+      "folder": "year_2008",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2008-DS0001-bndl-data-ascii-setup-to-stata_v1.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2007",
+      "year": "2007",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2007",
+      "folder": "year_2007",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2007-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2006",
+      "year": "2006",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2006",
+      "folder": "year_2006",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2006-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2005",
+      "year": "2005",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2005",
+      "folder": "year_2005",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2005-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2004",
+      "year": "2004",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2004",
+      "folder": "year_2004",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2004-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2003",
+      "year": "2003",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2003",
+      "folder": "year_2003",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2003-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NSDUH 2002",
+      "year": "2002",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2002",
+      "folder": "year_2002",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-r.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NSDUH-2002-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 2001",
+      "year": "2001",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2001",
+      "folder": "year_2001",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2001-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 2000",
+      "year": "2000",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/2000",
+      "folder": "year_2000",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-info-questionnaire-screener.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-2000-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1999",
+      "year": "1999",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1999",
+      "folder": "year_1999",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-info-questionnaire-specs.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-info-questionnaire-showcards.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1999-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1998",
+      "year": "1998",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1998",
+      "folder": "year_1998",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1998-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1997",
+      "year": "1997",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1997",
+      "folder": "year_1997",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1997-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1996",
+      "year": "1996",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1996",
+      "folder": "year_1996",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1996-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1995",
+      "year": "1995",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1995",
+      "folder": "year_1995",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1995-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1994  - Part B",
+      "year": "1994PartB",
+      "relative_href": "/data/dataset/part-b-nhsda-1994-ds0002",
+      "folder": "year_1994PartB",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0002-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1994  - Part A",
+      "year": "1994PartA",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1994",
+      "folder": "year_1994PartA",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1994-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1993",
+      "year": "1993",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1993",
+      "folder": "year_1993",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1993-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1992",
+      "year": "1992",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1992",
+      "folder": "year_1992",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1992-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1991",
+      "year": "1991",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1991",
+      "folder": "year_1991",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1991-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1990",
+      "year": "1990",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1990",
+      "folder": "year_1990",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1990-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1988",
+      "year": "1988",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1988",
+      "folder": "year_1988",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1988-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1985",
+      "year": "1985",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1985",
+      "folder": "year_1985",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1985-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1982",
+      "year": "1982",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1982",
+      "folder": "year_1982",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1982-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    },
+    {
+      "dropDownLabel": "NHSDA 1979",
+      "year": "1979",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles/1979",
+      "folder": "year_1979",
+      "downloadList": [
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-info-codebook.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-info-questionnaire-other1.pdf",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-stata.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-ascii.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-tsv.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-ascii-setup-to-sas.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-ascii-setup-to-spss.zip",
+        "https://www.samhsa.gov/data/system/files/media-puf-file/NHSDA-1979-DS0001-bndl-data-ascii-setup-to-stata.zip"
+      ]
+    }
+  ],
+  "downloadList": []
+}
