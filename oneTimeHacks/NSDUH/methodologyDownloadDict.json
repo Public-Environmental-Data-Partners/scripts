@@ -1,0 +1,386 @@
+{
+  "folder": "download",
+  "subfolderList": [
+    {
+      "dropDownLabel": "2024",
+      "year": "2024",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2024",
+      "folder": "year_2024_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2024",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2024.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44493/2024-nsduh-mrb-field-int-man.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44494/2024-nsduh-mrb-cai-specs.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44494/2024-nsduh-mrb-eng-web-specs.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44495/2024-nsduh-mrb-web-screener.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44495/2024-nsduh-mrb-screener-specs.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44496/2024-nsduh-mrb-showcards.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2023",
+      "year": "2023",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2023",
+      "folder": "year_2023_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2023",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2023.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt47098/Methodological%20Summary%20and%20Definitions/2023-nsduh-method-summary-defs.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt47098/Methodological%20Summary%20and%20Definitions/2023-nsduh-method-summary-defs.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt56198/2023-nsduh-puf-data-users-guide.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39457/2023NSDUHmrbFIManual012623.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41851/2023NSDUHmrbChanges042423.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41909/2023NSDUHPillImages.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39458/2023NSDUHmrbCAISpecs020223.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39458/2023NSDUHmrbWebCAISpecs013123.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt46218/2023-nsduh-mrb-sample-design.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39459/2023NSDUHmrbScreeningSpecs013123.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39459/2023NSDUHmrbWebScreeningSpecs013123.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39460/2023NSDUHmrbShowcards020223.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2022",
+      "year": "2022",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2022",
+      "folder": "year_2022_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2022",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2022.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt42729/2022-nsduh-method-summary-defs/2022-nsduh-method-summary-defs-110123.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt42729/2022-nsduh-method-summary-defs/2022-nsduh-method-summary-defs-110123.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44477/2022-nsduh-mrb-dcfr.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt53098/2022-nsduh-mrb-edit-imp.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39376/2022NSDUHmrbFIManual010622.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39380/2022NSDUH_MRB%20Protocol%20Changes_110922.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt46219/2022-nsduh-mrb-qdu-person-pair.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt46220/2022-nsduh-mrb-sampling-wgt.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41910/2022NSDUHPillImages.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39377/2022NSDUHmrbWebSpecs070822.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39377/2022NSDUHmrbCAISpecs070722.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt40290/2022NSDUHmrbSampleDesign04032023.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44476/2022-nsduh-mrb-sample-exp.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39378/2022NSDUHmrbScreeningSpecs022522.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39378/2022NSDUHmrbWebScreeningSpecs022522.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39379/2022NSDUHmrbShowcards070722.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt44478/2022-nsduh-mrb-stat-inference.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2021",
+      "year": "2021",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2021",
+      "folder": "year_2021_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2021",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2021.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39442/2021NSDUHMethodSummDefs100422.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39442/2021NSDUHMethodSummDefs100422/2021NSDUHMethodSummDefs100422.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41912/2021NSDUHmrbDCFR.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41911/2021NSDUHmrbEditImputation.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35954/2021NSDUHmrbFIManual031721.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt40288/2021NSDUHmrbQDUPairWgt04032023.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt40289/2021NSDUHmrbSamplingWgt041023.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35957/NSDUHPillImages2021.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35958/2021NSDUHmrbCAISpecs011321.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35958/2021NSDUHMRBWebSpecs101422.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35968/2021NSDUHmrbSampleDesign071722.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt38615/2021%20MRB%20Sample%20Experience%20Report/2021%20MRB%20Sample%20Experience%20Report/2021NSDUHmrbSampleExperience081122.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35956/2021NSDUHmrbScreenerSpecs010621.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35956/NSDUHmrbWebScreenerSpecs2021.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35955/2021NSDUHmrbShowcards011321.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41913/2021NSDUHmrbStatInference.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2020",
+      "year": "2020",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2020",
+      "folder": "year_2020_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2020",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2020.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35330/2020NSDUHMethodSummDefs091721.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35330/2020NSDUHMethodSummDefs092421/2020NSDUHMethodsSummDefs092421.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt38664/2020NSDUHMRBDCFR072522.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt38663/2020NSDUHmrbEditImputation091222.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23261/NSDUHmrbFIManual2020.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23244/NSDUHmrbEngCAISpecs2020.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt39455/2020NSDUHmrbSamplingWgt050222.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23265/NSDUHPillImages2020.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt37932/2020NSDUHmrbQDUPairWgt071122.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41915/2020NSDUHmrbSampleDesign.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt41914/2020NSDUHmrbSampleExperience.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23245/NSDUHmrbScreenerSpecs2020.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23243/NSDUHmrbShowcards2020.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35994/2020NSDUHmrbStatInference061022.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt35952/NSDUHmrbWebSpecs2020.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2019",
+      "year": "2019",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2019",
+      "folder": "year_2019_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2019",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2019.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt29395/2019NSDUHMethodsSummDefs/2019NSDUHMethodsSummDefs082120.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt29395/2019NSDUHMethodsSummDefs/2019NSDUHMethodsSummDefs082120.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34659/NSDUHmrbDCFR2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34660/NSDUHmrbEditImputation2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23074/NSDUHmrbFIManual2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34661/NSDUHmrbChanges2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34662/2019NSDUHmrbSamplingWgt040621.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23057/NSDUHmrbCAISpecs2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34663/2019NSDUHmrbQDUPairWgt042921.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHPillImages2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34664/NSDUHmrbSampleDesign2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34665/NSDUHmrbSampleExperience2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23059/NSDUHmrbScreenerSpecs2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23058/NSDUHmrbShowcards2019.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34666/NSDUHmrbStatInference2019.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2018",
+      "year": "2018",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2018",
+      "folder": "year_2018_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2018",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2018.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHMethodsSummDefs2018/NSDUHMethodsSummDefs2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHMethodsSummDefs2018/NSDUHMethodsSummDefs2018.htm",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt23253/NSDUHmrbDCFR2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt29385/NSDUHmrbEditImputation2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbFIManual2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt29387/NSDUHmrbSamplingWgt2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHPillImages2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbCAISpecs2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt29386/NSDUHmrbQDUPairWgt2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbSampleDesign2018/NSDUHmrbSampleDesign2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbSampleExperience2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbScreenerSpecs2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbShowcards2018.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/reports/rpt34667/NSDUHmrbStatInference2018.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2017",
+      "year": "2017",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2017",
+      "folder": "year_2017_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2017",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2017.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHMethodSummDefs2017/NSDUHMethodSummDefs2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHMethodSummDefs2017/NSDUHMethodSummDefs2017.htm",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbFIManual2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2017_0.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbCAISpecs2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbShowcards2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbDCFR2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbEditImputation2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/2k17mrbSamplingWgt.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUH-PillImages-2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbQDUPairWgt2017/NSDUHmrbQDUPairWgt2017.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbStatInference2017.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2016",
+      "year": "2016",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2016",
+      "folder": "year_2016_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2016",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2016.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-MethodSummDefs-2016/NSDUH-MethodSummDefs-2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-MethodSummDefs-2016/NSDUH-MethodSummDefs-2016.htm",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbEditImputation2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbFIManual2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbDCFR2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbCAIquex2016v2.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbScreenerSpecs2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbShowcards2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbQDUPairWgt2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbSampleDesign2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleExperience2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbSamplingWgt2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHmrbStatInference2016.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-PillImages-2016.pdf"
+      ]
+    },
+    {
+      "dropDownLabel": "2015",
+      "year": "2015",
+      "relative_href": "/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2015",
+      "folder": "year_2015_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/methodology/2015",
+        "filename": "./data_data_we_collect_nsduh_national_survey_drug_use_and_health_methodology_2015.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-RedesignChanges-2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-MethodSummDefsHTML-2015/NSDUH-MethodSummDefsHTML-2015/NSDUH-MethodSummDefs-2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-MethodSummDefsHTML-2015/NSDUH-MethodSummDefsHTML-2015/NSDUH-MethodSummDefs-2015.htm",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbEditImputation2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleExperience2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbStatInference2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH-PillImages-2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2015MRB/NSDUHmrbCAIquex2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbQDUPairWgt2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbQxRIAR2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2015MRB/NSDUHmrbScreener2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2015MRB/NSDUHmrbShowcards2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleDesign2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSamplingWgt2015.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbDCFR2015.pdf"
+      ]
+    },
+    {
+      "year": "2014",
+      "relative_href": "/data/report/nsduh-2014-methodological-resource-book-mrb",
+      "folder": "year_2014_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/report/nsduh-2014-methodological-resource-book-mrb",
+        "filename": "./data_report_nsduh_2014_methodological_resource_book_mrb.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbDCFR2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbEditAndImp2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbFImanual2014_opt.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbIntro2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSamplingWgt2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbPillcards2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbCAIquex2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbQDUPairWgt2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleDesign2014v1.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleExperience2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleRIAR2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbScreener2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbShowcards2014.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbStatInference2014.pdf"
+      ]
+    },
+    {
+      "year": "2013",
+      "relative_href": "/data/report/nsduh-2013-methodological-resource-book-mrb",
+      "folder": "year_2013_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/report/nsduh-2013-methodological-resource-book-mrb",
+        "filename": "./data_report_nsduh_2013_methodological_resource_book_mrb.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbDCFR2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbEditImputation2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbChanges2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbQDUPairWgt2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSamplingWgt2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2013MRB/NSDUH2013MRB/NSDUHmrbPillcards2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2013MRB/NSDUH2013MRB/NSDUHmrbCAIquex2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSampleDesign2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbSamplingError2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2013MRB/NSDUH2013MRB/NSDUHmrbScreener2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2013MRB/NSDUH2013MRB/NSDUHmrbShowcards2013.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbStatInference2013.pdf"
+      ]
+    },
+    {
+      "year": "2012",
+      "relative_href": "/data/report/nsduh-2012-methodological-resource-book",
+      "folder": "year_2012_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/report/nsduh-2012-methodological-resource-book",
+        "filename": "./data_report_nsduh_2012_methodological_resource_book.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDU2012MRB-Ammended2/NSDUHmrbDCFR2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbEditImp2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbChanges2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbMHSSOps2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbMHSS-DesignEst2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbQDUPairWgt2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbSamplingWgt2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB/NSDUH2012MRB/2k12PillCards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB/NSDUH2012MRB/2k12Q.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbSamplingError2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB/NSDUH2012MRB/2k12Screener.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbSCAeffects2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB/NSDUH2012MRB/2k12Showcards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbStatInference2012.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2012MRB-Ammended/NSDUHmrbSampleDesign2012.pdf"
+      ]
+    },
+    {
+      "year": "2011",
+      "relative_href": "/data/report/nsduh-2011-methodological-resource-book",
+      "folder": "year_2011_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/report/nsduh-2011-methodological-resource-book",
+        "filename": "./data_report_nsduh_2011_methodological_resource_book.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbDCFR2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbEditsInt2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbEditsSelf2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUHmrbFIManual2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbEditsCore2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbImputation2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbChanges2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbMHSSDataColl2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbMHSSDesignEst2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbQDUPairWgt2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbSamplingWgt2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/2k11PillCards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/2k11Q.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbSampleDesign2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbSamplingError2011.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/2k11Screener.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/2k11Showcards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2011MRB/NSDUH2011MRB/NSDUHmrbStatInference2011.pdf"
+      ]
+    },
+    {
+      "year": "2010",
+      "relative_href": "/data/report/nsduh-2010-methodological-resource-book-mrb",
+      "folder": "year_2010_methodology",
+      "pageToSave": {
+        "url": "https://www.samhsa.gov/data/report/nsduh-2010-methodological-resource-book-mrb",
+        "filename": "./data_report_nsduh_2010_methodological_resource_book_mrb.html"
+      },
+      "downloadList": [
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/NSDUHmrbDCFR2010.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/2k10pillcards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/2k10Q.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/2k10Screener.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/2k10Showcards.pdf",
+        "https://www.samhsa.gov/data/sites/default/files/NSDUH2010MRB/NSDUH2010MRB/NSDUHmrbStatInference2010.pdf"
+      ]
+    }
+  ],
+  "downloadList": []
+}

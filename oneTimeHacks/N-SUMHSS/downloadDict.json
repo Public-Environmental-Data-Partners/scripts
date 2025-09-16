@@ -1,0 +1,1185 @@
+{
+  "folder": "download",
+  "folderLevel": 0,
+  "subfolderList": [
+    {
+      "year": "2023",
+      "original_href": "/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles/2023",
+      "collectionList": [
+        "1283"
+      ],
+      "folder": "year_2023",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1283",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2023&data_collection=1283"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1283-N-SUMHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-info-codebook_v1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/n-sumhss-2023-questionnaire.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-bndl-data-sas_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-bndl-data-spss_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-bndl-data-stata_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-bndl-data-csv_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2023-DS0001-bndl-data-r_v1.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "original_href": "/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles/2022",
+      "collectionList": [
+        "1180"
+      ],
+      "folder": "year_2022",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1180",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2022&data_collection=1180"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1180-N-SUMHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/2022_N-SUMHSS_Questionnaire.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-bndl-data-sas_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-bndl-data-spss_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-bndl-data-stata_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-bndl-data-csv_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2022-DS0001-bndl-data-r_v1.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "original_href": "/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles/2021",
+      "collectionList": [
+        "1179"
+      ],
+      "folder": "year_2021",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1179",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2021&data_collection=1179"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1179-N-SUMHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/2021_N-SUMHSS_Questionnaire.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-bndl-data-sas_v2.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-bndl-data-spss_v2.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-bndl-data-stata_v2.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-bndl-data-csv_v2.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SUMHSS-2021-DS0001-bndl-data-r_v2.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "original_href": "?year=2020&data_collection=1172",
+      "collectionList": [
+        "1172",
+        "1168"
+      ],
+      "folder": "year_2020",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1172",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2020&data_collection=1172"
+        },
+        {
+          "collectionNum": "1168",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2020&data_collection=1168"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1172-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-info-questionnaire-other.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-bndl-data-sas_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-bndl-data-spss_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-bndl-data-stata_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-bndl-data-csv_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2020-DS0001-bndl-data-r_v1.zip"
+          ]
+        },
+        {
+          "folder": "collection_1168-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-info-questionnaire-other.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-bndl-data-csv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2020-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "original_href": "?year=2019&data_collection=1154",
+      "collectionList": [
+        "1154",
+        "1155"
+      ],
+      "folder": "year_2019",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1154",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2019&data_collection=1154"
+        },
+        {
+          "collectionNum": "1155",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2019&data_collection=1155"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1154-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2019-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1155-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2019-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "original_href": "?year=2018&data_collection=1152",
+      "collectionList": [
+        "1152",
+        "1151"
+      ],
+      "folder": "year_2018",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1152",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2018&data_collection=1152"
+        },
+        {
+          "collectionNum": "1151",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2018&data_collection=1151"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1152-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2018-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1151-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-info-codebook_v1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-bndl-data-sas_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-bndl-data-spss_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-bndl-data-stata_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-bndl-data-tsv_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2018-DS0001-bndl-data-r_v1.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "original_href": "?year=2017&data_collection=1144",
+      "collectionList": [
+        "1144",
+        "1139"
+      ],
+      "folder": "year_2017",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1144",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2017&data_collection=1144"
+        },
+        {
+          "collectionNum": "1139",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2017&data_collection=1139"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1144-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2017-DS0001-bndl-data-ascii-setup-to-sas.zip"
+          ]
+        },
+        {
+          "folder": "collection_1139-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-info-codebook_v1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-bndl-data-sas_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-bndl-data-spss_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-bndl-data-stata_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-bndl-data-tsv_v1.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2017-DS0001-bndl-data-r_v1.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "original_href": "?year=2016&data_collection=1145",
+      "collectionList": [
+        "1145",
+        "1138"
+      ],
+      "folder": "year_2016",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1145",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2016&data_collection=1145"
+        },
+        {
+          "collectionNum": "1138",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2016&data_collection=1138"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1145-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2016-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1138-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2016-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "original_href": "?year=2015&data_collection=1132",
+      "collectionList": [
+        "1132",
+        "1130"
+      ],
+      "folder": "year_2015",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1132",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2015&data_collection=1132"
+        },
+        {
+          "collectionNum": "1130",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2015&data_collection=1130"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1132-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2015-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1130-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2015-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "original_href": "?year=2014&data_collection=1131",
+      "collectionList": [
+        "1131",
+        "1094"
+      ],
+      "folder": "year_2014",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1131",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2014&data_collection=1131"
+        },
+        {
+          "collectionNum": "1094",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2014&data_collection=1094"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1131-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2014-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1094-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2014-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "original_href": "/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles/n-ssats-2013",
+      "collectionList": [
+        "1113"
+      ],
+      "folder": "year_2013",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1113",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2013&data_collection=1113"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1113-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2013-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "original_href": "?year=2012&data_collection=1128",
+      "collectionList": [
+        "1128",
+        "1089"
+      ],
+      "folder": "year_2012",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1128",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2012&data_collection=1128"
+        },
+        {
+          "collectionNum": "1089",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2012&data_collection=1089"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1128-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2012-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1089-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2012-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "original_href": "?year=2011&data_collection=1055",
+      "collectionList": [
+        "1055",
+        "1086"
+      ],
+      "folder": "year_2011",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1055",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2011&data_collection=1055"
+        },
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2011&data_collection=1086"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1055-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2011-DS0001-bndl-data-r.zip"
+          ]
+        },
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "original_href": "?year=2010&data_collection=1051",
+      "collectionList": [
+        "1051",
+        "1086",
+        "1048"
+      ],
+      "folder": "year_2010",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1051",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2010&data_collection=1051"
+        },
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2010&data_collection=1086"
+        },
+        {
+          "collectionNum": "1048",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2010&data_collection=1048"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1051-N-MHSS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-info-questionnaire-specs.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-MHSS-2010-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1048-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2010-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "original_href": "?year=2009&data_collection=1016",
+      "collectionList": [
+        "1086",
+        "1016"
+      ],
+      "folder": "year_2009",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2009&data_collection=1086"
+        },
+        {
+          "collectionNum": "1016",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2009&data_collection=1016"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1016-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2009-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "original_href": "?year=2008&data_collection=1107",
+      "collectionList": [
+        "1086",
+        "1107"
+      ],
+      "folder": "year_2008",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2008&data_collection=1086"
+        },
+        {
+          "collectionNum": "1107",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2008&data_collection=1107"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1107-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2008-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "original_href": "?year=2007&data_collection=1024",
+      "collectionList": [
+        "1086",
+        "1024"
+      ],
+      "folder": "year_2007",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2007&data_collection=1086"
+        },
+        {
+          "collectionNum": "1024",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2007&data_collection=1024"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1024-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2007-DS0001-bndl-data-r.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "original_href": "?year=2006&data_collection=1073",
+      "collectionList": [
+        "1086",
+        "1073"
+      ],
+      "folder": "year_2006",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2006&data_collection=1086"
+        },
+        {
+          "collectionNum": "1073",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2006&data_collection=1073"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1073-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2006-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "original_href": "?year=2005&data_collection=1078",
+      "collectionList": [
+        "1086",
+        "1078"
+      ],
+      "folder": "year_2005",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2005&data_collection=1086"
+        },
+        {
+          "collectionNum": "1078",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2005&data_collection=1078"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1078-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2005-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "original_href": "?year=2004&data_collection=1034",
+      "collectionList": [
+        "1086",
+        "1034"
+      ],
+      "folder": "year_2004",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2004&data_collection=1086"
+        },
+        {
+          "collectionNum": "1034",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2004&data_collection=1034"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1034-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2004-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "original_href": "?year=2003&data_collection=1066",
+      "collectionList": [
+        "1086",
+        "1066"
+      ],
+      "folder": "year_2003",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2003&data_collection=1086"
+        },
+        {
+          "collectionNum": "1066",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2003&data_collection=1066"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1066-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2003-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "original_href": "?year=2002&data_collection=1075",
+      "collectionList": [
+        "1086",
+        "1075"
+      ],
+      "folder": "year_2002",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2002&data_collection=1086"
+        },
+        {
+          "collectionNum": "1075",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2002&data_collection=1075"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1075-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2002-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "original_href": "?year=2000&data_collection=1104",
+      "collectionList": [
+        "1086",
+        "1104"
+      ],
+      "folder": "year_2000",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2000&data_collection=1086"
+        },
+        {
+          "collectionNum": "1104",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=2000&data_collection=1104"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1104-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-info-questionnaire-other1.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-2000-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "original_href": "?year=1999&data_collection=1282",
+      "collectionList": [
+        "1086",
+        "1282"
+      ],
+      "folder": "year_1999",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1999&data_collection=1086"
+        },
+        {
+          "collectionNum": "1282",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1999&data_collection=1282"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1282-UFDS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/99_ufds_quest.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "original_href": "?year=1998&data_collection=1118",
+      "collectionList": [
+        "1086",
+        "1118"
+      ],
+      "folder": "year_1998",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1998&data_collection=1086"
+        },
+        {
+          "collectionNum": "1118",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1998&data_collection=1118"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1118-UFDS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-info-questionnaire-other.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1998-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "original_href": "?year=1997&data_collection=1047",
+      "collectionList": [
+        "1086",
+        "1047"
+      ],
+      "folder": "year_1997",
+      "collectionInfoList": [
+        {
+          "collectionNum": "1086",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1997&data_collection=1086"
+        },
+        {
+          "collectionNum": "1047",
+          "dataCollectionURL": "https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles?year=1997&data_collection=1047"
+        }
+      ],
+      "subfolderList": [
+        {
+          "folder": "collection_1086-N-SSATS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/N-SSATS-1997-2011-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        },
+        {
+          "folder": "collection_1047-UFDS",
+          "downloadList": [
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-info-codebook.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-info-questionnaire-other.pdf",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-stata.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-ascii.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-tsv.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-r.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-ascii-setup-to-sas.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-ascii-setup-to-spss.zip",
+            "https://www.samhsa.gov/data/system/files/media-puf-file/UFDS-1997-DS0001-bndl-data-ascii-setup-to-stata.zip"
+          ]
+        }
+      ]
+    }
+  ],
+  "downloadList": []
+}
