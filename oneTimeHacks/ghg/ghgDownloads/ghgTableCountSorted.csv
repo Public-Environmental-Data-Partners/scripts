@@ -1,0 +1,371 @@
+table_id,table_name,subject_area,record_count
+368,ef_w_onshore_wells,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4325776
+228,c_tier2_monthly_hhv,Subpart C - General Stationary Fuel Combustion Sources,1166841
+157,hh_hist_yr_waste_qty,Subpart HH - Municipal Solid Waste Landfills,689312
+50,hh_hist_yr_waste_qty_detl,Subpart HH - Municipal Solid Waste Landfills,557163
+352,ef_w_flare_stacks_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),510248
+349,ef_w_emissions_source_ghg,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),503060
+373,rlps_ghg_emitter_subpart,Subpart Information,391632
+369,tt_hist_waste_method,Subpart TT - Industrial Waste Landfills,329834
+328,rlps_ghg_emitter_sector,Sector Information,308581
+389,rlps_ghg_emitter_gas,Gas Information,308567
+178,c_fuel_level_information,Subpart C - General Stationary Fuel Combustion Sources,274858
+402,c_configuration_level_info,Subpart C - General Stationary Fuel Combustion Sources,236691
+199,c_subpart_level_information,Subpart C - General Stationary Fuel Combustion Sources,221419
+272,ef_w_recip_leak_vent_data,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),214690
+231,ef_w_equip_leaks_comp_emissfac,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),172586
+70,hh_waste_qty_details,Subpart HH - Municipal Solid Waste Landfills,155022
+361,ef_w_recip_comp_source,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),150942
+60,ef_w_equip_leaks_onshore,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),133874
+386,rlps_parent_company_info,Facility Information,130549
+213,hh_ann_waste_disposal_qty,Subpart HH - Municipal Solid Waste Landfills,116619
+305,c_t2eqc2amonthlyinputs,Subpart C - General Stationary Fuel Combustion Sources,110940
+380,ii_ch4_gen_process,Subpart II - Industrial Wastewater Treatment,108357
+387,rlps_ghg_emitter_facilities,Facility Information,107329
+314,ef_w_offshore_emiss_source,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),88060
+343,w_subpart_level_information,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),81407
+289,ff_degas_weekly,Subpart FF - Underground Coal Mines,80139
+139,w_unique_flare_stacks_details,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),76063
+161,x_mass_balance_unit_details,Subpart X - Petrochemical Production,73800
+279,ii_biogas_rec_proc,Subpart II - Industrial Wastewater Treatment,71498
+166,d_fuel_level_information,Subpart D - Electricity Generation,68586
+127,d_subpart_level_information,Subpart D - Electricity Generation,65693
+51,ef_w_facility_overview,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),63107
+190,hh_lndfil_wth_gas_clct_wst_dep,Subpart HH - Municipal Solid Waste Landfills,60836
+131,w_source_summary,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),59910
+270,ef_w_dehydrators_large,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),55375
+42,ef_w_recip_comp_activity,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),50436
+121,d_configuration_level_info,Subpart D - Electricity Generation,48647
+271,ef_w_centrif_leak_vent_data,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),48628
+244,ef_w_atm_stg_tanks_calc3,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),43480
+304,w_equipleaks_maj_equip_cnt,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),42885
+302,ef_w_centrif_comp_source,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),42521
+57,ef_w_ngpneumatic_dev_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),38940
+316,ef_w_blowdown_stacks_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),33425
+132,w_offshore_emissions_sources,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),33078
+41,ef_w_recip_em_fctrs_as_found,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),30570
+45,ef_w_combust_large_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),29147
+49,c_t3eqc5c8monthlyinputs,Subpart C - General Stationary Fuel Combustion Sources,27252
+150,hh_hist_waste_qty_method,Subpart HH - Municipal Solid Waste Landfills,27203
+287,ff_ventilation_qtrly,Subpart FF - Underground Coal Mines,26747
+375,w_est_emiss_found_in_leak_surv,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),26431
+149,hh_cover_type_details,Subpart HH - Municipal Solid Waste Landfills,26341
+113,aa_fossil_fuel_tier_2_info,Subpart AA - Pulp and Paper Manufacturing,25620
+116,pp_co2_end_use_details,Subpart PP - Suppliers of Carbon Dioxide (CO2),25175
+234,hh_gascoll_mea_loc_dest,Subpart HH - Municipal Solid Waste Landfills,23686
+247,ef_w_atm_stg_tanks_calc1or2,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),23241
+62,ef_w_equip_leaks_pop_count,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),22569
+283,c_tier1equationinput,Subpart C - General Stationary Fuel Combustion Sources,22165
+133,w_sub_basin,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),21092
+217,nn_ldc_nat_gas_deliveries,Subpart NN - Suppliers of Natural Gas and Natural Gas Liquids,21060
+334,w_reciprocating_compressors,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),20853
+332,w_bd_vent_stack_unq_physl_vol,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),20699
+230,ef_w_centrif_em_fctrs_as_found,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),20621
+284,ff_destroffsite_weekly,Subpart FF - Underground Coal Mines,20096
+239,hh_gascoll_measure_locs,Subpart HH - Municipal Solid Waste Landfills,19727
+96,ef_w_equip_leaks_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),18824
+232,ef_w_equip_leaks_survey_char,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),18824
+295,ef_w_flare_stacks_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),17325
+43,ef_w_recip_comp_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),17325
+364,ef_w_centrif_comp_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),17323
+107,w_glycol_dehy_less_thn_spe_val,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),17006
+69,hh_subpart_level_information,Subpart HH - Municipal Solid Waste Landfills,16484
+123,hh_landfill_info,Subpart HH - Municipal Solid Waste Landfills,16444
+381,w_est_emiss_using_pop_count,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),16200
+248,s_lime_product_details,Subpart S - Lime Manufacturing,14784
+363,ef_w_centrif_comp_activity,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),14603
+117,q_unit_details,Subpart Q - Iron and Steel Production,13998
+388,rlps_ghg_supplier_facilities,Facility Information,13485
+227,c_biogenic_co2_details,Subpart C - General Stationary Fuel Combustion Sources,13430
+83,ef_w_ngpneumatic_dev_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),13101
+308,dd_facility_info,Subpart DD - Use of Electric Transmission and Distribution Equipment,12882
+319,dd_increase_nameplate,Subpart DD - Use of Electric Transmission and Distribution Equipment,12813
+320,dd_sf6pfc_acquisitions,Subpart DD - Use of Electric Transmission and Distribution Equipment,12813
+321,dd_sf6pfc_decreases,Subpart DD - Use of Electric Transmission and Distribution Equipment,12813
+322,dd_sf6pfc_disbursement,Subpart DD - Use of Electric Transmission and Distribution Equipment,12813
+325,dd_user_emissions_calc,Subpart DD - Use of Electric Transmission and Distribution Equipment,12813
+326,ef_w_blowdown_stacks_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),12718
+138,w_pneumatic_device_type,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),12387
+189,w_atmos_tanks_calc_5,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),12306
+158,hh_gas_collection_system_detls,Subpart HH - Municipal Solid Waste Landfills,12176
+312,ef_w_liquids_unload_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),12118
+372,ef_w_dehydrators_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),11305
+282,ef_w_acidgasremoval_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),11304
+108,w_glycol_dehy_more_thn_spe_val,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),11167
+317,tt_wastestream_detls,Subpart TT - Industrial Waste Landfills,11156
+390,rlps_ghg_supplier_gas,Gas Information,10739
+285,ff_well_and_shaft,Subpart FF - Underground Coal Mines,10291
+294,ef_w_acidgasremoval_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),10073
+235,hh_gascoll_meth_oxi_frac,Subpart HH - Municipal Solid Waste Landfills,9532
+173,s_lime_byproduct_details,Subpart S - Lime Manufacturing,9185
+67,ef_w_comp_workovers_frac,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),9123
+290,ff_degas_qtrly,Subpart FF - Underground Coal Mines,8855
+309,tt_subpart_ghg_info,Subpart TT - Industrial Waste Landfills,8821
+105,ef_w_combust_equip_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),8721
+46,ef_w_combust_small_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),8721
+394,mv_ef_i_dre_claimed_gas_info,Subpart I - Electronics Manufacture,8189
+162,y_subpart_level_information,Subpart Y - Petroleum Refineries,7877
+397,mv_ef_i_emissions_by_ghg,Subpart I - Electronics Manufacture,7794
+300,ef_w_comp_workovers_no_frac,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7436
+354,rlps_ghg_supplier_sector,Sector Information,7359
+261,ef_w_atm_stg_tanks_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7222
+58,ef_w_ngpneumatic_pmp_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7222
+71,ef_w_recip_comp_onshore,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7222
+374,ef_w_centrif_comp_onshore,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7220
+56,ef_w_ngpneumatic_pmp_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),7187
+124,q_subpart_level_information,Subpart Q - Iron and Steel Production,6968
+216,nn_subpart_level_information,Subpart NN - Suppliers of Natural Gas and Natural Gas Liquids,6960
+229,nn_ngl_fractionator_methods,Subpart NN - Suppliers of Natural Gas and Natural Gas Liquids,6929
+222,y_flare_information,Subpart Y - Petroleum Refineries,6836
+55,ef_w_transmiss_tanks_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),6754
+88,mm_crudeoil_ngl,Subpart MM - Suppliers of Petroleum Product Suppliers,6614
+136,w_other_emissions_equip_leaks,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),6611
+395,mv_ef_i_ann_fghg_semiconductor,Subpart I - Electronics Manufacture,6477
+129,n_non_cems_source_info,Subpart N - Glass Production,6451
+90,mm_petroleum_products,Subpart MM - Suppliers of Petroleum Product Suppliers,6425
+74,ef_w_associated_ng_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),6390
+167,h_cems_details,Subpart H - Cement Production,6260
+106,dd_sf6_pfc_equipment_cat,Subpart DD - Use of Electric Transmission and Distribution Equipment,6130
+128,hh_gas_collection_mnthly_detls,Subpart HH - Municipal Solid Waste Landfills,6083
+143,w_reciprocating_cmprs_onshore,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),6070
+191,p_subpart_level_info,Subpart P - Hydrogen Production,6064
+333,w_centrifugal_cmps_onshore,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),6036
+353,w_atmos_tanks_calc_1_or_2,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),6030
+245,n_subpart_level_information,Subpart N - Glass Production,5892
+208,g_non_cems_source_info,Subpart G - Ammonia Manufacturing,5712
+339,w_centrifugal_compressors,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),5697
+177,aa_subpart_level_information,Subpart AA - Pulp and Paper Manufacturing,5520
+155,aa_fossil_fuel_information,Subpart AA - Pulp and Paper Manufacturing,5512
+250,ef_w_transmiss_tanks_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),5423
+122,h_subpart_level_information,Subpart H - Cement Production,5284
+203,nn_ldc_details,Subpart NN - Suppliers of Natural Gas and Natural Gas Liquids,5267
+164,y_loadingoperations_info,Subpart Y - Petroleum Refineries,4949
+306,c_t2eqc2cmonthlyinputs,Subpart C - General Stationary Fuel Combustion Sources,4788
+281,ff_summary_source,Subpart FF - Underground Coal Mines,4785
+219,pp_mass_flow_measure_details,Subpart PP - Suppliers of Carbon Dioxide (CO2),4692
+204,pp_volume_flow_measure_details,Subpart PP - Suppliers of Carbon Dioxide (CO2),4576
+597,mv_ef_y_flaregascompoundy1b,Subpart Y - Petroleum Refineries,4553
+72,ef_w_associated_ng_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4436
+37,ef_w_comp_workovers_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4434
+102,ef_w_eor_hydrocarbon_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4432
+315,ef_w_eor_injection_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4432
+63,ef_w_liquids_unload_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4432
+29,ef_w_well_testing_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),4432
+340,w_liquids_unloading_calc_two,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),4356
+323,dd_subpart_level_information,Subpart DD - Use of Electric Transmission and Distribution Equipment,4231
+201,hh_lndfil_wthout_gas_clct_emis,Subpart HH - Municipal Solid Waste Landfills,4172
+137,w_pneumatic_devices,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),4140
+206,x_combustion_ethylene_unit,Subpart X - Petrochemical Production,4109
+144,s_subpart_level_information,Subpart S - Lime Manufacturing,4076
+110,w_int_fuel_heat_cap_great_thn,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),4013
+82,h_no_cems_month_details,Subpart H - Cement Production,3984
+153,y_processvent_info,Subpart Y - Petroleum Refineries,3969
+120,aa_spent_liquor_information,Subpart AA - Pulp and Paper Manufacturing,3928
+385,rlps_facilities_stopped_reporting,Facility Information,3852
+145,w_wellcompl_without_hydraulic,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3849
+197,x_subpart_level_information,Subpart X - Petrochemical Production,3787
+347,w_acid_gas_removal_unit,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3740
+98,w_dehydrators,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3740
+384,w_flare_stacks_details,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3740
+291,ff_destroffsite_qtrly,Subpart FF - Underground Coal Mines,3651
+331,w_blowdown_vent_stacks,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3616
+329,mm_subpart_level_information,Subpart MM - Suppliers of Petroleum Product Suppliers,3614
+307,c_t3eqc3c8monthlyinputs,Subpart C - General Stationary Fuel Combustion Sources,3588
+223,y_crackingcokingreforming_info,Subpart Y - Petroleum Refineries,3573
+346,w_abs_desicant_dehydrators,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3512
+337,w_liquids_unloading_calc_three,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),3289
+207,c_cems_quarterly_co2,Subpart C - General Stationary Fuel Combustion Sources,3244
+370,tt_landfill_details,Subpart TT - Industrial Waste Landfills,3082
+303,w_fuels_for_large_int_comb,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2993
+383,w_ext_fuel_heat_cap_less_thn,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2985
+198,y_sulfurrecovery_info,Subpart Y - Petroleum Refineries,2881
+269,w_combustion,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2768
+91,mm_prodbymeasmthd,Subpart MM - Suppliers of Petroleum Product Suppliers,2676
+130,w_well_completion_hydraulic,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2628
+48,c_t3eqc4c8monthlyinputs,Subpart C - General Stationary Fuel Combustion Sources,2532
+288,ff_subpart_level_information,Subpart FF - Underground Coal Mines,2394
+246,pp_meter_and_equipment_details,Subpart PP - Suppliers of Carbon Dioxide (CO2),2317
+263,ii_process_details,Subpart II - Industrial Wastewater Treatment,2196
+365,w_atmos_tanks_calc_3_or_4,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2196
+180,z_co2_content_method,Subpart Z - Phosphoric Acid Production,2184
+39,ef_w_dehydrators_small,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),2178
+278,aa_bio_co2_emiss_factor,Subpart AA - Pulp and Paper Manufacturing,2094
+142,w_pneumatic_pump_type,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2056
+367,w_asso_venting_flaring,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+188,w_atmospheric_tanks,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+99,w_enh_oil_rec_inj_pump_bd,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+100,w_eor_hydrocarbon_liq,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+338,w_liquids_unloading,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+140,w_pneumatic_pumps,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+146,w_well_testing,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+336,w_wellcomplsworkovers,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),2045
+160,p_unit_info,Subpart P - Hydrogen Production,2004
+292,ff_degasification,Subpart FF - Underground Coal Mines,1995
+152,y_emissions_by_source,Subpart Y - Petroleum Refineries,1990
+225,y_equipmentleak_info,Subpart Y - Petroleum Refineries,1990
+176,y_storagetank_info,Subpart Y - Petroleum Refineries,1988
+407,y_sourgas_info,Subpart Y - Petroleum Refineries,1986
+119,y_uncontrolledblowdown_info,Subpart Y - Petroleum Refineries,1973
+255,i_semiconductor_info,Subpart I - Electronics Manufacture,1962
+196,pp_co2_flow_measure_equipment,Subpart PP - Suppliers of Carbon Dioxide (CO2),1924
+134,w_transmission_tanks,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),1889
+118,x_flare_information,Subpart X - Petrochemical Production,1835
+391,mv_ef_i_fab_flu_heat_tranfluid,Subpart I - Electronics Manufacture,1821
+262,ii_subpart_level_information,Subpart II - Industrial Wastewater Treatment,1821
+151,pp_calc_method_data_quality,Subpart PP - Suppliers of Carbon Dioxide (CO2),1771
+171,pp_subpart_level_information,Subpart PP - Suppliers of Carbon Dioxide (CO2),1771
+348,w_acid_gas_remvl_number_units,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),1653
+111,w_int_fuel_heat_cap_less_thn,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),1615
+135,w_transmission_storage_tanks,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),1615
+301,ef_w_equip_leaks_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1588
+165,y_cems_details,Subpart Y - Petroleum Refineries,1560
+193,h_cems_info,Subpart H - Cement Production,1533
+233,ef_w_equip_leaks_ngdist_actvy,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1499
+362,ef_w_equip_leaks_ngdist_leaks,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1499
+154,aa_makeup_chemical_info,Subpart AA - Pulp and Paper Manufacturing,1490
+44,ef_w_recip_comp_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1485
+215,n_info,Subpart N - Glass Production,1473
+267,ii_equation_ii6,Subpart II - Industrial Wastewater Treatment,1466
+226,g_subpart_level_information,Subpart G - Ammonia Manufacturing,1456
+224,y_delayedcoking_info,Subpart Y - Petroleum Refineries,1436
+95,ef_w_blowdown_ons_ng_trns_pl,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1388
+211,h_no_cems_qrtr_details,Subpart H - Cement Production,1328
+350,ef_w_dehydrators_desiccant,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1326
+324,dd_transmission_line,Subpart DD - Use of Electric Transmission and Distribution Equipment,1288
+356,r_feedstock_info,Subpart R - Lead Production,1279
+187,ee_nocems_monthlydetails,Subpart EE - Titanium Dioxide Production,1224
+376,rlps_ghg_injection_facilities,Facility Information,1207
+313,ef_w_offshore_emiss_summ,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1190
+330,w_atmos_tank_wellhead,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),1185
+172,q_cems_details,Subpart Q - Iron and Steel Production,1112
+47,y_delayedcoking_unit,Subpart Y - Petroleum Refineries,1092
+87,mm_crudeoilreceived,Subpart MM - Suppliers of Petroleum Product Suppliers,1031
+392,mv_ef_i_n2o_dre_claimedgasinfo,Subpart I - Electronics Manufacture,998
+192,z_inorganic_carbon_content,Subpart Z - Phosphoric Acid Production,984
+382,w_ext_fuel_heat_cap_great_thn,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),760
+112,w_local_dist_companies_details,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),752
+34,ss_ghg_acquisition,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+33,ss_ghg_disbursement,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+32,ss_ghg_information,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+31,ss_ghg_inventory,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+75,ss_install_emissions,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+93,ss_msng_dta_emission,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+80,ss_subpart_level_information,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+78,ss_sum_hose_valve,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+79,ss_summary,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+77,ss_user_emissions,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,750
+30,y_delayedcoking_drumsetdetails,Subpart Y - Petroleum Refineries,743
+268,ii_equation_ii3,Subpart II - Industrial Wastewater Treatment,722
+335,w_liquids_unloading_calc_one,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),697
+86,ef_w_ons_prod_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),683
+360,v_nitric_acid_train,Subpart V - Nitric Acid Production,659
+393,mv_ef_i_fab_abatement_system,Subpart I - Electronics Manufacture,631
+220,q_flare_information,Subpart Q - Iron and Steel Production,631
+398,mv_ef_i_fab_details,Subpart I - Electronics Manufacture,605
+400,mv_ef_i_fab_n2o_emissions,Subpart I - Electronics Manufacture,605
+251,w_fuels_for_large_ext_comb,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),600
+366,w_asso_gas_vent_flare_basin,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),599
+286,ff_destroffsite_backup,Subpart FF - Underground Coal Mines,582
+202,k_subpart_level_information,Subpart K - Ferroalloy Production,548
+257,i_fhtf_info,Subpart I - Electronics Manufacture,526
+194,z_subpart_level_information,Subpart Z - Phosphoric Acid Production,516
+212,h_no_cems_raw_material_details,Subpart H - Cement Production,515
+341,f_subpart_level_information,Subpart F - Aluminum Production,500
+344,v_subpart_level_information,Subpart V - Nitric Acid Production,468
+104,ef_w_eor_hydrocarbon_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),455
+148,w_offshore_sources,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),447
+205,x_cems_details,Subpart X - Petrochemical Production,436
+596,mv_ef_q_cml_associated_units,Subpart Q - Iron and Steel Production,423
+327,ef_w_blowdown_stacks_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),407
+359,v_facility_info,Subpart V - Nitric Acid Production,403
+595,mv_ef_y_cml_associated_units,Subpart Y - Petroleum Refineries,401
+109,w_hydrocarbon_liquids_diss,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),375
+351,ef_w_flare_stacks_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),369
+210,g_info,Subpart G - Ammonia Manufacturing,364
+357,r_smelting_furnace_info,Subpart R - Lead Production,358
+265,ii_equ_ii1_or_ii2,Subpart II - Industrial Wastewater Treatment,338
+159,k_non_cems_source_info,Subpart K - Ferroalloy Production,334
+256,i_n2o_info,Subpart I - Electronics Manufacture,333
+186,ee_subpart_level_information,Subpart EE - Titanium Dioxide Production,297
+342,gg_nocems_zinc_details,Subpart GG - Zinc Production,294
+299,ef_w_liquids_unload_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),294
+371,ef_w_centrif_comp_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),293
+125,q_cems_info,Subpart Q - Iron and Steel Production,279
+264,ii_equ_ii4_input,Subpart II - Industrial Wastewater Treatment,274
+266,ii_equation_ii7,Subpart II - Industrial Wastewater Treatment,273
+182,gg_subpart_level_information,Subpart GG - Zinc Production,254
+76,ss_hose_valve,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,236
+92,ss_msng_dta_hose_vlv,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,236
+221,s_cems_details,Subpart S - Lime Manufacturing,220
+101,ef_w_eor_injection_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),217
+147,w_well_testing_basin,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),210
+252,z_phosp_ac_proc_line,Subpart Z - Phosphoric Acid Production,210
+242,t_cover_or_carrier_gas,Subpart T - Magnesium Production,208
+243,t_subpart_level_information,Subpart T - Magnesium Production,206
+260,i_abatement_info,Subpart I - Electronics Manufacture,170
+259,i_facility_details,Subpart I - Electronics Manufacture,170
+218,p_cems_details,Subpart P - Hydrogen Production,168
+141,w_unique_inj_pump_blowdown,Subpart W - Petroleum and Natural Gas Systems (RY 2011-2014),168
+249,ef_w_atm_stg_tanks_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),167
+358,r_subpart_level_information,Subpart R - Lead Production,165
+355,r_facility_info,Subpart R - Lead Production,156
+378,ef_w_combust_equip_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),155
+184,z_facility_info,Subpart Z - Phosphoric Acid Production,153
+399,mv_ef_i_ann_fghg_pvmemslcd,Subpart I - Electronics Manufacture,151
+89,mm_blendedproducts,Subpart MM - Suppliers of Petroleum Product Suppliers,146
+238,f_smelter_details,Subpart F - Aluminum Production,144
+185,u_info,Subpart U - Miscellaneous Uses of Carbonate,141
+85,u_subpart_level_information,Subpart U - Miscellaneous Uses of Carbonate,141
+115,n_cems_details,Subpart N - Glass Production,140
+241,t_production_process,Subpart T - Magnesium Production,138
+114,k_info,Subpart K - Ferroalloy Production,137
+38,ef_w_comp_workovers_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),134
+377,tt_lf_gas_coll_details,Subpart TT - Industrial Waste Landfills,132
+379,f_method_details,Subpart F - Aluminum Production,123
+310,ef_w_well_testing_units,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),120
+84,ef_w_ngpneumatic_dev_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),118
+163,y_asphaltblowing_info,Subpart Y - Petroleum Refineries,114
+94,ss_mass_deliv_new_eq,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,111
+81,ss_msng_dta_mak_modl,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,111
+126,x_process_unit_details,Subpart X - Petrochemical Production,109
+253,ee_nocemstio2details,Subpart EE - Titanium Dioxide Production,102
+181,ee_facility_info,Subpart EE - Titanium Dioxide Production,90
+293,ef_w_acidgasremoval_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),80
+183,gg_facility_info,Subpart GG - Zinc Production,77
+35,ss_eq_ss5,Subpart SS - Manufacture of Electric Transmission and Distribution Equipment,75
+258,i_pv_mems_lcd_info,Subpart I - Electronics Manufacture,68
+175,y_cokecalciner_info,Subpart Y - Petroleum Refineries,57
+179,u_calcination_frac_methods,Subpart U - Miscellaneous Uses of Carbonate,54
+54,ef_w_transmiss_tanks_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),49
+170,p_unit_info_cems,Subpart P - Hydrogen Production,42
+4,u_mass_methods,Subpart U - Miscellaneous Uses of Carbonate,40
+174,x_cems_info,Subpart X - Petrochemical Production,37
+240,n_cems_info,Subpart N - Glass Production,35
+73,ef_w_associated_ng_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),25
+59,ef_w_ngpneumatic_pmp_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),25
+66,ef_w_comp_workovers_frc_def,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),18
+40,ef_w_dehydrators_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),18
+53,tt_gascoll_measure_locs,Subpart TT - Industrial Waste Landfills,17
+52,tt_mldestructiondevice,Subpart TT - Industrial Waste Landfills,17
+103,ef_w_eor_hydrocarbon_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),12
+296,ef_w_associated_ng_delay,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),8
+311,ef_w_atm_stg_tanks_def,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),6
+200,g_cems_details,Subpart G - Ammonia Manufacturing,4
+156,hh_active_aeration_sys_detls,Subpart HH - Municipal Solid Waste Landfills,4
+209,g_cems_feedstock_details,Subpart G - Ammonia Manufacturing,2
+345,ef_w_well_testing_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),2
+36,ef_w_well_testing_delay,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),1
+280,aa_tier1equationinput,Subpart AA - Pulp and Paper Manufacturing,0
+195,ee_cems_details,Subpart EE - Titanium Dioxide Production,0
+254,ee_cems_info,Subpart EE - Titanium Dioxide Production,0
+237,ee_tier4cems_qtrdtls,Subpart EE - Titanium Dioxide Production,0
+396,mv_ef_i_fab_stack_sys_details,Subpart I - Electronics Manufacture,0
+401,mv_ef_i_fab_stack_test_cert,Subpart I - Electronics Manufacture,0
+214,k_cems_details,Subpart K - Ferroalloy Production,0
+168,k_cems_info,Subpart K - Ferroalloy Production,0
+97,s_no_cems_annual_avg,Subpart S - Lime Manufacturing,0
+318,tt_waste_depth_details,Subpart TT - Industrial Waste Landfills,0
+297,ef_w_comp_workovers_no_frc_del,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),0
+298,ef_w_eor_injection_missing,Subpart W - Petroleum and Natural Gas Systems (RY 2015-2023),0
+169,z_cems_details,Subpart Z - Phosphoric Acid Production,0
+236,z_tier4cems_qtrdtls,Subpart Z - Phosphoric Acid Production,0
