@@ -1,0 +1,40 @@
+================================================================================
+CSB INVESTIGATIONS SCRAPER - SUMMARY REPORT
+================================================================================
+
+Scrape Start Time:       2025-11-12 13:01:39
+Scrape End Time:         2025-11-12 13:10:17
+Total Duration:          0:08:37.926275
+
+--------------------------------------------------------------------------------
+STATISTICS
+--------------------------------------------------------------------------------
+
+Total Investigation URLs Found:     136
+Investigations Processed:           126
+Investigations Skipped:             10
+Total Download Links Found:         1005
+
+Average Downloads per Investigation: 7.98
+
+--------------------------------------------------------------------------------
+OUTPUT FILES
+--------------------------------------------------------------------------------
+
+CSV Data File:    C:\njy_main\CSB\csb_past_investigations.csv
+Summary Log:      C:\njy_main\CSB\csb_past_investigations_summary.log
+Detailed Log:     C:\main_njy\csb_scraper.log
+
+--------------------------------------------------------------------------------
+NOTES
+--------------------------------------------------------------------------------
+
+- Investigations without a 'Final Report Released On' date were skipped
+- Only files with common document extensions were captured
+  (pdf, doc, docx, xls, xlsx, ppt, pptx, zip)
+- Each row in the CSV represents one downloadable file
+- Multiple download links may exist for a single investigation
+
+================================================================================
+Report generated: 2025-11-12 13:10:17
+================================================================================
