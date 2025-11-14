@@ -74,25 +74,28 @@ class CSBInvestigationsDownloader:
 
     def get_unique_filename(self, base_filename, investigation_id):
         """
-        Generate a unique filename. If the base filename is unique, use it.
-        Otherwise, use investigation_id + _NJY# suffix
+        Generate a unique filename with investigation ID prepended.
+        Format: [investigation_id]_[filename] or [investigation_id]_NJY#_[filename] for duplicates
         """
         # Clean the filename
         base_filename = base_filename.strip()
         if not base_filename:
-            base_filename = f"{investigation_id}.pdf"
+            base_filename = "document.pdf"
 
-        # Check if we've seen this filename before
-        self.filename_counts[base_filename] += 1
+        # Create the new filename with ID prefix
+        new_filename = f"{investigation_id}_{base_filename}"
 
-        if self.filename_counts[base_filename] == 1:
-            # First occurrence - use the original name
-            return base_filename
+        # Check if we've seen this exact new filename before
+        self.filename_counts[new_filename] += 1
+
+        if self.filename_counts[new_filename] == 1:
+            # First occurrence - use the ID-prefixed name
+            return new_filename
         else:
-            # Duplicate - use ID + _NJY# suffix
+            # Duplicate - add NJY# suffix
             name, ext = os.path.splitext(base_filename)
-            suffix_num = self.filename_counts[base_filename] - 1
-            return f"{investigation_id}_NJY{suffix_num}{ext}"
+            suffix_num = self.filename_counts[new_filename] - 1
+            return f"{investigation_id}_NJY{suffix_num}_{name}{ext}"
 
     def download_file(self, url, output_path, retries=3):
         """Download a file with retry logic"""
