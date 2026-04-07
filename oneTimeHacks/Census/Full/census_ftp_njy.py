@@ -6,40 +6,68 @@ Simple Census FTP Downloader
 - Creates directories as needed
 - Logs downloads to a clean catalog
 - Resumable (just run again to continue)
+- Uses concurrent downloads for speed
 """
 
 import os
 import csv
 import requests
-import time
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 # Config
 CATALOG_CSV = r"F:\data_archives_2025\Census_all\Census_ftp_Downloads\census_ftp_catalog.csv"
 DOWNLOAD_DIR = r"F:\data_archives_2025\Census_all\Census_ftp_Downloads"
 DOWNLOAD_LOG = r"F:\data_archives_2025\Census_all\Census_ftp_Downloads\census_ftp_downloaded.csv"
-RATE_LIMIT = 0.2  # seconds between downloads
-TIMEOUT = 60  # seconds
+WORKERS = 12  # concurrent download threads
+TIMEOUT = (30, 300)  # (connect timeout, read timeout) - 30s to connect, 5 min to download
+CHUNK_SIZE = 131072  # 128KB chunks
 
-# Required to avoid 403 Forbidden from Census servers
+# Browser-like headers to avoid 403 Forbidden from Census servers
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Referer': 'https://www2.census.gov/',
+    'Connection': 'keep-alive',
 }
+
+# Reusable session for connection pooling (one per thread)
+_thread_local = threading.local()
+_shutdown = threading.Event()  # signals threads to stop
+
+
+def get_session():
+    """Get a per-thread requests session for connection reuse"""
+    if not hasattr(_thread_local, 'session'):
+        _thread_local.session = requests.Session()
+        _thread_local.session.headers.update(HEADERS)
+    return _thread_local.session
 
 
 def download_file(url, local_path):
-    """Download a single file, return file size if successful"""
+    """Download a single file, return file size if successful.
+    Downloads to a .tmp file first, then renames on success to avoid partial files."""
+    if _shutdown.is_set():
+        return None
+    tmp_path = local_path + '.tmp'
     try:
-        response = requests.get(url, timeout=TIMEOUT, stream=True, headers=HEADERS)
+        session = get_session()
+        response = session.get(url, timeout=TIMEOUT, stream=True)
         if response.status_code == 200:
-            with open(local_path, 'wb') as f:
-                for chunk in response.iter_content(chunk_size=8192):
+            with open(tmp_path, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
                     f.write(chunk)
+            os.replace(tmp_path, local_path)
             return os.path.getsize(local_path)
         else:
             print(f"  HTTP {response.status_code}: {url[:70]}")
     except Exception as e:
         print(f"  ERROR: {e}")
+    # Clean up partial .tmp file on failure
+    if os.path.exists(tmp_path):
+        os.remove(tmp_path)
     return None
 
 
@@ -116,8 +144,31 @@ def main():
     downloaded = 0
     failed = 0
     dirs_created = 0
+    total_bytes = 0
+    log_lock = threading.Lock()
 
     start_time = datetime.now()
+
+    # Pre-filter: skip existing files and create dirs (single-threaded, fast)
+    to_download = []
+    for file_info in files:
+        rel_path = file_info['path']
+        local_path = os.path.join(DOWNLOAD_DIR, rel_path)
+        local_dir = os.path.dirname(local_path)
+
+        if os.path.exists(local_path):
+            skipped += 1
+            continue
+
+        if not os.path.exists(local_dir):
+            os.makedirs(local_dir, exist_ok=True)
+            dirs_created += 1
+
+        to_download.append((file_info, local_path))
+
+    print(f"Skipped {skipped:,} existing files")
+    print(f"Created {dirs_created:,} new directories")
+    print(f"Downloading {len(to_download):,} files with {WORKERS} threads...\n")
 
     # Open download log (append mode so we can resume)
     log_exists = os.path.exists(DOWNLOAD_LOG)
@@ -127,50 +178,53 @@ def main():
     if not log_exists:
         log_writer.writeheader()
 
+    def process_file(file_info, local_path):
+        """Download a single file and return result"""
+        url = file_info['url']
+        file_size = download_file(url, local_path)
+        return file_info, local_path, file_size
+
     try:
-        for i, file_info in enumerate(files):
-            url = file_info['url']
-            rel_path = file_info['path']
+        with ThreadPoolExecutor(max_workers=WORKERS) as executor:
+            futures = {
+                executor.submit(process_file, fi, lp): fi
+                for fi, lp in to_download
+            }
 
-            # Local path
-            local_path = os.path.join(DOWNLOAD_DIR, rel_path)
-            local_dir = os.path.dirname(local_path)
+            try:
+                for i, future in enumerate(as_completed(futures)):
+                    file_info, local_path, file_size = future.result()
 
-            # Progress every 100 files
-            if i % 100 == 0:
-                print(f"\n[{i:,}/{len(files):,}] Downloaded: {downloaded} | Skipped: {skipped} | Failed: {failed} | Dirs created: {dirs_created}")
+                    if file_size is not None:
+                        downloaded += 1
+                        total_bytes += file_size
+                        with log_lock:
+                            log_writer.writerow({
+                                'path': file_info['path'],
+                                'name': file_info['name'],
+                                'url': file_info['url'],
+                                'size_bytes': file_size,
+                                'extension': file_info.get('extension', ''),
+                                'category': file_info['category'],
+                                'downloaded_at': datetime.now().isoformat()
+                            })
+                            log_file.flush()
+                    else:
+                        failed += 1
 
-            # Skip if file exists
-            if os.path.exists(local_path):
-                skipped += 1
-                continue
+                    # Progress every 100 files
+                    if (i + 1) % 100 == 0 or (i + 1) == len(to_download):
+                        elapsed_so_far = (datetime.now() - start_time).total_seconds()
+                        rate_mb = (total_bytes / 1048576) / elapsed_so_far if elapsed_so_far > 0 else 0
+                        last_file = file_info['path'].split('/')[-1][:40]
+                        print(f"[{i+1:,}/{len(to_download):,}] OK: {downloaded:,} | Failed: {failed:,} | {total_bytes/1073741824:.1f} GB | {rate_mb:.1f} MB/s | {last_file}")
 
-            # Create directory if needed
-            if not os.path.exists(local_dir):
-                os.makedirs(local_dir, exist_ok=True)
-                dirs_created += 1
-
-            # Download
-            print(f"  Downloading: {rel_path}")
-            file_size = download_file(url, local_path)
-
-            if file_size is not None:
-                downloaded += 1
-                # Log successful download
-                log_writer.writerow({
-                    'path': rel_path,
-                    'name': file_info['name'],
-                    'url': url,
-                    'size_bytes': file_size,
-                    'extension': file_info.get('extension', ''),
-                    'category': file_info['category'],
-                    'downloaded_at': datetime.now().isoformat()
-                })
-                log_file.flush()
-            else:
-                failed += 1
-
-            time.sleep(RATE_LIMIT)
+            except KeyboardInterrupt:
+                print("\n\nCtrl+C detected - shutting down (waiting for active downloads to finish)...")
+                _shutdown.set()
+                for f in futures:
+                    f.cancel()
+                executor.shutdown(wait=True)
 
     finally:
         log_file.close()
@@ -181,6 +235,7 @@ def main():
     print("DOWNLOAD COMPLETE")
     print("="*60)
     print(f"Downloaded: {downloaded:,}")
+    print(f"Total size: {total_bytes/1073741824:.2f} GB")
     print(f"Skipped (already had): {skipped:,}")
     print(f"Directories created: {dirs_created:,}")
     print(f"Failed: {failed:,}")
