@@ -56,36 +56,42 @@ Please install git on your machine if you don't already use it. You can fork (co
 Now do a clone to get the fork downloaded to your local machine.  From there, develop in your local fork, and when you're ready to push your new code up to the main branch, use the workflow:  stage, commit, push, open pull request.  For pull requests, you can either open a new pull request from the main branch in GitHub, or use git.
 
 **# staging Files**
-git add <file>              # Add specific file
-git add .                   # Add all changes in current directory
-git add -A                  # Add all changes everywhere
+- Add specific file
+  - git add <file>              
+- Add all changes in current directory
+  - git add .                   
+- Add all changes everywhere
+  - git add -A                  
 
-**# commit Staged Changes**
-git commit -m "Your message"
+**# commit** 
+- Commit staged changes
+  - git commit -m "Your message"
 
 **# push Commits to Sync with the Online Version of Your Fork**
-git push                    # Push to current branch
+- Push to current branch
+- git push                    
 
 **# other Useful Commands**
-git pull                    # Pull latest changes from remote
-git status                  # Check status of your repository
-git diff                    # See what changed in your files
-git clone <url>             # Clone repository
+- Pull latest changes from remote
+  - git pull                
+- Check status of your repository
+  - git status                  
+- See what changed in your files
+  - git diff                    
+- Clone repository
+  - git clone <url>             
 
-**# viewing History**
-\# View commit history
-git log                     # Full log
-git log --oneline           # Condensed one-line format
-git log --graph --oneline   # Visual graph
-git log -5                  # Last 5 commits
-
+**# viewing History - use these commands to view commit history**
+- Full log
+  - git log                        
+- Last 5 commits
+  - git log -5
+                 
 **# useful Combinations**
-\# Quick commit all changes
-git add -A \&\& git commit -m "message" \&\& git push
-
-\# See what will be pushed
-git diff origin/master
-
-\# Sync with upstream (for forks)
-git fetch upstream
-git merge upstream/master
+- Quick commit all changes
+  - git add -A \&\& git commit -m "message" \&\& git push
+- See what will be pushed
+- - git diff origin/master
+- Sync with upstream (for forks)
+- - git fetch upstream
+- - git merge upstream/master
