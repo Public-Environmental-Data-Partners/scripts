@@ -50,6 +50,8 @@ if none apply, to create a folder of your own. If you add code to an existing
 folder, please update the _readme.txt_ there. If you create a new folder, 
 please include a _readme.txt_ file
 
+---
+
 ### git process from your local development environment
 Please install git on your machine if you don't already use it. You can fork (copy) this Public-Environmental-Data-Partners/scripts repo to your own account.  To do that, you must already be authorized to work in the PEDP GitHub.  Then, go to https://github.com/Public-Environmental-Data-Partners/scripts, and then go to "Fork" and "Create New Fork".  Set the Owner of the new fork to yourself.  Name the fork "scripts" folder something else like pedp_scripts, so you can make sure you're not developing directly on the main branch.  
 
