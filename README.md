@@ -52,48 +52,7 @@ please include a _readme.txt_ file
 
 ---
 
+
 ### git process from your local development environment
-Please install git on your machine if you don't already use it. You can fork (copy) this Public-Environmental-Data-Partners/scripts repo to your own account.  To do that, you must already be authorized to work in the PEDP GitHub.  Then, go to https://github.com/Public-Environmental-Data-Partners/scripts, and then go to "Fork" and "Create New Fork".  Set the Owner of the new fork to yourself.  Name the fork "scripts" folder something else like pedp_scripts, so you can make sure you're not developing directly on the main branch.  
 
-Now do a clone to get the fork downloaded to your local machine.  From there, develop in your local fork, and when you're ready to push your new code up to the main branch, use the workflow:  stage, commit, push, open pull request.  For pull requests, you can either open a new pull request from the main branch in GitHub, or use git.
-
-**# staging Files**
-- Add specific file
-  - git add <file>              
-- Add all changes in current directory
-  - git add .                   
-- Add all changes everywhere
-  - git add -A                  
-
-**# commit** 
-- Commit staged changes
-  - git commit -m "Your message"
-
-**# push Commits to Sync with the Online Version of Your Fork**
-- Push to current branch
-- git push                    
-
-**# other Useful Commands**
-- Pull latest changes from remote
-  - git pull                
-- Check status of your repository
-  - git status                  
-- See what changed in your files
-  - git diff                    
-- Clone repository
-  - git clone <url>             
-
-**# viewing History - use these commands to view commit history**
-- Full log
-  - git log                        
-- Last 5 commits
-  - git log -5
-                 
-**# useful Combinations**
-- Quick commit all changes
-  - git add -A \&\& git commit -m "message" \&\& git push
-- See what will be pushed
-- - git diff origin/master
-- Sync with upstream (for forks)
-- - git fetch upstream
-- - git merge upstream/master
+New to git and github? We have documented steps for making a change using git and the pull request process in our organization's [CONTRIBUTING doc](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md#code-and-documentation-changes) and a doc with git tips [here](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/git-tips.md) for working with git locally.
